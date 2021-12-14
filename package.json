@@ -1,0 +1,60 @@
+{
+ "name": "HamsterBot",
+ "version": "0.0.1",
+ "description": "A simple Facebook Messenger Bot made by me(Hamster).",
+ "main": "HamsterBot.js",
+ "scripts": {
+ "start": "node index",
+ "login": "node login",
+ "test": "node --trace-warnings --use_strict --async-stack-traces HamsterBotV1"
+ },
+ "repository": {
+ "type": "git",
+ "url": "git+https://github.com/HamsterBotV1/BotV1.git"
+ },
+ "keywords": [
+ "bot",
+ "facebook",
+ "projectorHamsterBot",
+ "messenger",
+ "HamsterBot",
+ "Hamster",
+ "spermlord",
+ "HamsterBot"
+ ],
+ "author": "Hamster",
+ "license": "GPL-3.0",
+ "bugs": {
+ "url": "https://github.com/HamsterBotV1/BotV1/issues"
+ },
+ "homepage": "https://github.com/HamsterBotV1/BotV1/#readme/",
+ "dependencies": {
+ "@miraipr0ject/assets": "",
+ "axios": "",
+ "body-parser": "",
+ "caesar-salad": "",
+ "canvas": "",
+ "chalk": "",
+ "cheerio": "",
+ "child_process": "",
+ "crypto": "",
+ "eval": "",
+ "extract-zip": "",
+ "@HamsterBot/fca-unofficial": "",
+ "figlet": "",
+ "fs-extra": "",
+ "jimp": "",
+ "minimist": "",
+ "moment-timezone": "",
+ "ms": "",
+ "npmlog": "",
+ "path": "",
+ "readline": "",
+ "request": "",
+ "semver": "",
+ "sequelize": "",
+ "sqlite3": "",
+ "string-similarity": "",
+ "totp-generator": ""
+ }
+}
