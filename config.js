@@ -14,7 +14,7 @@
     "PREFIX": "🐹",
     "ADMINBOT": [
          "ID1",
-         "iD2"
+         "ID2"
  ],
  "DATABASE": {
       "sqlite": {
